@@ -1,1 +1,3 @@
 # inter-block-correlation
+
+https://d1wqtxts1xzle7.cloudfront.net/102624166/j.aeue.2013.08.01820230525-1-co7ejz-libre.pdf?1684994920=&response-content-disposition=inline%3B+filename%3DA_novel_blind_robust_image_watermarking.pdf&Expires=1750274315&Signature=e8Pwi4sf4MM-HRjalMl2haTezKT6N3Rft0FVpTUT~n5V6-zAmPS54eGuLmyvpYiriqzfIxa8im9le-1~gpitc4tWHZUXsdC5CCiu0VWQkdl81AwWB5sDAuGGULO1FGWJhaSNqL-xIcummkd7KLQvubulDOSqgu3theeR~H4am4hYnVMl8f2cqAZRahK3cfOS-R1gZHupveTBcy6Pr1pt0YR7vZMpfsoedQmyQMQQv~99G3UkrRqMUxXUgJVRPfqN85A7XMamYgpzlSnKmEyD9ovuddOPKpCMsaTIeq-FBVTcHrZTcZBfFKBqV7rZtKfOXM3HfqSEAT-TVnJ31gPylA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
